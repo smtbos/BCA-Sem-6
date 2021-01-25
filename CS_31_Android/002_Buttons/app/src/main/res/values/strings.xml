@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="btn1_title">Click Here</string>
+    <string name="btn3_title">Click Combo Button</string>
+</resources>
