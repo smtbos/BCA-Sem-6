@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Citys">
+        <item>Amreli</item>
+        <item>Rajula</item>
+        <item>Lathi</item>
+        <item>Dhasa</item>
+        <item>Damnagar</item>
+    </string-array>
+</resources>
